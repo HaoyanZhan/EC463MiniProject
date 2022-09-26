@@ -15,6 +15,7 @@ Mini Project Report
 	The second part of the project was to think about another way of implementing the code so that the led will behave differently, but saddly my installation of MinGW is not properly installed ! I tried my best to download cmake and clone the files provide on github. But I cannot get over this error in Fig 1. 
 
 				Fig.1 Error for cmake
+                                
 
 	For this project, I am required to implement a new code for the led. My idea is to shorten the sleep duration (500ms) by a half, 
   and extend the sleep time (2000ms)  for not blink on the led. And I made the changes to blinc.c provide by the class. 
